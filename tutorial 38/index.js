@@ -1,0 +1,1 @@
+var link = document.getElementsByTagName("p")[0];
